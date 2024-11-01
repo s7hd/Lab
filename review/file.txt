@@ -1,2 +1,5 @@
 new branch
+ HEAD
 New chang in main
+another change in new 
+ e9c0619 (new change in new branch)
